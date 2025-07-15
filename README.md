@@ -13,6 +13,7 @@
 - [CLI Tools](#cli-tools)
 - [Specialized Tools](#specialized-tools)
 - [Learning Resources](#learning-resources)
+- [License](#license)
 
 ## IDE-Based Assistants
 
@@ -59,7 +60,7 @@ Open source AI coding assistants and models.
 
 Tools with generous free tiers for individual developers.
 
-- [Codeium](https://codeium.com) - Unlimited free tier for individual developers.
+- [Codeium Free](https://codeium.com) - Unlimited free tier for individual developers.
 - [Qodo](https://www.qodo.ai) - Free AI-powered code testing and review for VS Code and JetBrains.
 - [Blackbox AI](https://www.blackbox.ai) - Free AI code generation and chat, supports multiple programming languages.
 - [Sourcegraph Cody](https://sourcegraph.com/cody) - Free tier includes AI chat and commands for code understanding.
@@ -79,7 +80,7 @@ AI coding tools designed for teams and enterprises.
 
 Command-line AI coding assistants.
 
-- [Claude Code](https://claude.ai/code) - Anthropic's CLI tool with advanced reasoning and MCP integration.
+- [Claude Code CLI](https://claude.ai/code) - Anthropic's CLI tool with advanced reasoning and MCP integration.
 - [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal, works with GPT-4 and Claude.
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Build entire codebases from natural language specifications.
 - [Shell GPT](https://github.com/TheR1D/shell_gpt) - Command-line productivity tool powered by AI.
@@ -135,4 +136,4 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+This project is licensed under CC0 1.0 Universal. See the [LICENSE](LICENSE) file for details.
