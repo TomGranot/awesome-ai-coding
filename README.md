@@ -13,14 +13,12 @@
 - [CLI Tools](#cli-tools)
 - [Specialized Tools](#specialized-tools)
 - [Learning Resources](#learning-resources)
-- [License](#license)
 
 ## IDE-Based Assistants
 
 AI-powered extensions and plugins for existing IDEs.
 
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer powered by OpenAI Codex and GPT-4, integrated directly into VS Code, JetBrains IDEs, and more.
-- [Codeium](https://codeium.com) - Free AI code completion and search for 70+ languages, available for VS Code, JetBrains, Neovim, and more.
 - [Tabnine](https://www.tabnine.com) - AI assistant with privacy-focused approach, learns from your codebase patterns, supports all major IDEs.
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AWS's AI coding assistant (evolved from CodeWhisperer), free for individual use including commercial projects.
 - [Continue](https://continue.dev) - Open-source AI code assistant that you can customize and extend, works with any LLM.
@@ -60,7 +58,7 @@ Open source AI coding assistants and models.
 
 Tools with generous free tiers for individual developers.
 
-- [Codeium Free](https://codeium.com) - Unlimited free tier for individual developers.
+- [Codeium](https://codeium.com) - Unlimited free tier for individual developers.
 - [Qodo](https://www.qodo.ai) - Free AI-powered code testing and review for VS Code and JetBrains.
 - [Blackbox AI](https://www.blackbox.ai) - Free AI code generation and chat, supports multiple programming languages.
 - [Sourcegraph Cody](https://sourcegraph.com/cody) - Free tier includes AI chat and commands for code understanding.
@@ -71,7 +69,7 @@ Tools with generous free tiers for individual developers.
 AI coding tools designed for teams and enterprises.
 
 - [GitHub Copilot for Business](https://github.com/features/copilot/plans) - Enterprise version with policy controls and enhanced security.
-- [Codeium for Enterprise](https://codeium.com/enterprise) - Self-hosted deployment option with advanced security features.
+- [Codeium Enterprise](https://codeium.com/enterprise) - Self-hosted deployment option with advanced security features.
 - [Tabnine Enterprise](https://www.tabnine.com/enterprise) - On-premise deployment with complete code privacy.
 - [Amazon CodeGuru](https://aws.amazon.com/codeguru/) - Automated code reviews and application performance recommendations.
 - [Snyk Code](https://snyk.io/product/snyk-code/) - AI-powered secure code analysis integrated into development workflow.
@@ -80,7 +78,6 @@ AI coding tools designed for teams and enterprises.
 
 Command-line AI coding assistants.
 
-- [Claude Code CLI](https://claude.ai/code) - Anthropic's CLI tool with advanced reasoning and MCP integration.
 - [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal, works with GPT-4 and Claude.
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Build entire codebases from natural language specifications.
 - [Shell GPT](https://github.com/TheR1D/shell_gpt) - Command-line productivity tool powered by AI.
@@ -133,7 +130,3 @@ Resources to learn about AI in software development.
 ## Contributing
 
 Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
-
-## License
-
-This project is licensed under CC0 1.0 Universal. See the [LICENSE](LICENSE) file for details.
