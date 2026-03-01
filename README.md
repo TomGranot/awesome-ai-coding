@@ -82,6 +82,7 @@ Command-line AI coding assistants.
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Build entire codebases from natural language specifications.
 - [Shell GPT](https://github.com/TheR1D/shell_gpt) - Command-line productivity tool powered by AI.
 - [AI Shell](https://github.com/BuilderIO/ai-shell) - Natural language to shell commands converter.
+- [OpenPaw](https://github.com/daxaur/openpaw) - Turns Claude Code into a personal assistant with 38 skills. No daemon, no cloud. Run via `npx pawmode`.
 
 ## Specialized Tools
 
