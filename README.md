@@ -102,6 +102,7 @@ AI tools for specific development tasks.
 ### Debugging
 - [Jam](https://jam.dev) - AI-powered bug reporting and debugging assistant.
 - [Sentry AI](https://sentry.io) - AI-enhanced error tracking and performance monitoring.
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Local TUI for inspecting AI coding agent session cost, token usage, latency, tool failures, and slow-run diagnostics.
 
 ### Database
 - [Supabase AI](https://supabase.com/ai) - AI assistant for database queries and management.
