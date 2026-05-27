@@ -79,6 +79,7 @@ AI coding tools designed for teams and enterprises.
 Command-line AI coding assistants.
 
 - [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal, works with GPT-4 and Claude.
+- [codex-profiles](https://github.com/Ducksss/codex-profiles) - Switch Codex CLI/Desktop accounts with isolated CODEX_HOME profile directories.
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Build entire codebases from natural language specifications.
 - [Shell GPT](https://github.com/TheR1D/shell_gpt) - Command-line productivity tool powered by AI.
 - [AI Shell](https://github.com/BuilderIO/ai-shell) - Natural language to shell commands converter.
