@@ -87,6 +87,8 @@ Command-line AI coding assistants.
 
 AI tools for specific development tasks.
 
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Open-source Windows companion that displays Codex quota and reset information with a local usage dashboard.
+
 ### Documentation
 - [Mintlify](https://mintlify.com) - AI-powered documentation writer and maintainer.
 - [Stenography](https://stenography.dev) - Automatic code documentation and explanation.
